@@ -1,0 +1,1 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f3f4f6; } .container { max-width: 980px; margin: 24px auto; padding: 16px; } .card { background: white; padding: 16px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); } button { cursor: pointer; }
